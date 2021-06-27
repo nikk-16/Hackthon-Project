@@ -1,10 +1,13 @@
-This project was created in 2 days hackthon
-https://aheer-blood-bank.firebaseapp.com/
-Login Details
-Email: test@test.com
-Password: 123456
+This project was created in 2 days hackthon:-
+- https://aheer-blood-bank.firebaseapp.com/
+- Login Details
+- Email: test@test.com
+- Password: 123456
 
 - Our second website :- http://blooddonationhackathon.website2.me/
+
+- SECOND WEBSITE HOSTED THROUGH website.com
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 (https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
