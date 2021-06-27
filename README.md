@@ -1,8 +1,8 @@
 This project was created in 2 days hackthon:-
 - https://aheer-blood-bank.firebaseapp.com/
-- Login Details
-- Email: test@test.com
-- Password: 123456
+- Login Details:-
+Email: test@test.com
+Password: 123456
 
 - Our second website :- http://blooddonationhackathon.website2.me/
 
