@@ -1,12 +1,21 @@
-This project was created in 2 days hackthon:-
-- https://aheer-blood-bank.firebaseapp.com/
-- Login Details:-
-Email: test@test.com
-Password: 123456
+## BLOOD & PLASMA DONATION 
 
-- Our second website :- http://blooddonationhackathon.website2.me/
+We have created a website for the persons who all are willing to Donate Blood and Plasma for the welfare of the society.
 
-- SECOND WEBSITE HOSTED THROUGH website.com
+# Blood donation is important because maintaining an adequate blood supply in our community secures blood transfusions for patients.
+
+This will help our society and healthcare in many ways:
+- for COVID-19 pateints, PLASMA THERAPY.
+- for It saves lives.
+
+![alt text](http://blooddonationhackathon.website2.me/upload/1441730/images/optimize/0602CB39E38E2542.png) <br />
+
+-            This project was created for 2 days hackthon:- ## HACK THE MOUNTAIN
+# HOSTED WEBSITE:-
+
+- WEBSITE.COM :-
+http://blooddonationhackathon.website2.me/
+
 
 
 ## Something Missing?
